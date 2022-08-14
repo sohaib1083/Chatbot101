@@ -1,0 +1,91 @@
+{"intents": [
+    {
+     "patterns": ["Hi there", "How are you", "Is anyone there?","Hey","Hola", "Hello", "Good day"],
+     "responses": ["Hello, thanks for asking", "Good to see you again", "Hi there, how can I help?"]
+    },
+    {
+     "patterns": ["Bye", "See you later", "Goodbye", "Nice chatting to you, bye", "Till next time"],
+     "responses": ["See you!", "Have a nice day", "Bye! Come back again soon."]
+    },
+    {
+     "patterns": ["Thanks", "Thank you", "That's helpful", "Awesome, thanks", "Thanks for helping me"],
+     "responses": ["Happy to help!", "Any time!", "My pleasure"]
+    },
+    {
+     "patterns": ["How you could help me?", "What help you provide?", "How you can be helpful?"],
+     "responses": ["I can guide you through Adverse management problems, person to be contacted and Department related queries","I can provide support related to technical problems"]
+    },
+    {
+     "patterns": ["I want an appointment with Bilal Ahmer","set an appointment with Sohaib Shamsi"],
+     "responses": ["Fixing an appointment."]
+    },
+    {
+     "patterns": ["Is my appointment fixed?","Do I have an appointment today?"],
+     "responses": ["Yes","NO! Not Yet"]
+    },
+    {
+     "patterns": ["Is Saad Khan on leave?","Is Bilal Ahmer on leave?"],
+     "responses": ["No Not On Leave","Yes On Leave"]
+    },
+    {
+     "patterns": ["Cost Lowering changes to be made?","what changes could lower cost?"],
+     "responses": ["Increase Transportation capacity utilisation,Increase supply chain velocity,Reduce order variability"]
+    },
+    {
+     "patterns": ["I forgot my Login password?","what to do when someone forgets Login password?","I forgot my Laptop password","Forgot Wifi password"],
+     "responses": ["Please enter your email id ,we will send a link on your email"]
+    },
+    {
+      "patterns":["abx@gmail.com","abc@kiit.pk"],
+      "responses":["Link has been shared.Please change your password"]
+    },
+    {
+     "patterns": ["Find me a manufacturer nearby"],
+     "responses": ["The nearest manufacturer is Pakistan"]
+    },
+    {
+     "patterns": ["I want to know the various departments in this company"],
+     "responses": ["The department are:Projects,IT,Production,OutSource"]
+    },
+    {
+     "patterns": ["what are challenging events", "what are the threats in the market"],
+     "responses": ["Recent news of Demonetisation & recession"]
+    },
+   {
+     "patterns": ["Our Target customers", "who are your key customers"],
+     "responses": ["Our target customers are in the range of age 20-40"]
+    },
+    {
+     "patterns": ["I want to meet the head of HR/IT/Projects department","I want to meet head IT Sohaib Shamsi."],
+     "responses": ["I will just check if he is available or on leave."]
+    },
+    {
+     "patterns": ["complaint has been raised for Insufficient Team Skills","Miscommunication Conflicts needs to be resolved","Risk Management issue has occured","skilled employees needed urgently"],
+     "responses": ["Please contact the project depatment"]
+    },
+    {
+     "patterns": ["Lack of product clarity","the specifications of product is not clear to customer. what should we do"],
+     "responses": ["Please enter product id and customer id.specifications shall be sent to user"]
+    },
+    {
+     "patterns": ["user needs the updated software version","user demands software updation"],
+     "responses": ["version updation request raised"]
+    },
+    {
+     "patterns": ["problem related to Job design and analysis","query based on Workforce planning","Training and development issues are to be handled","Compensation and benefits of the working employee","Legal issues of department like accidents in the company"],
+     "responses": ["Please Contact the HR team for this problem."]
+    },
+    {
+     "patterns": ["what is your name?","what should I call you?"],
+     "responses": ["I'm SayabiDev","Hey!I'm Sayabi"]
+    },
+    {
+     "patterns": ["how you doing?","how are you"],
+     "responses": ["Thanks For Asking!How can I help you?"]
+    },
+    {
+     "patterns": ["what is the weather today?"],
+     "responses": ["It's 36C according to accuweather"]
+    }
+]
+}
